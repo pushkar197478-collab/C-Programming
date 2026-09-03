@@ -1,2 +1,2 @@
 # C Program
-Learning
+A collection of C programming practice problems and solutions, created to strengthen core concepts and improve problem-solving skills. This repository includes beginner-friendly examples, exercises, and code snippets that demonstrate the fundamentals of C language such as loops, functions, arrays, pointers, and file handling. Ideal for students and learners who want to build a solid foundation in C programming.
